@@ -1,0 +1,10 @@
+-> Variables : - it is a container which can be used to store data
+-> container has no fixed size in JS
+-> same container can be used to store any type of data
+-> Syntax :- var nameOfVariable;
+-> by default a container contains "undefined" 
+
+-> Different data types available in JS.  
+-> 1. Primitive data types : - first class citizen 
+-> 2. Non Primitive data types :- second class citizen
+->
